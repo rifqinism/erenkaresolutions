@@ -4,3 +4,4 @@ Resolusi Muhammad Rifqi Nur Khafidz
 - Menghilangkan kemalasan
 - Belajar html, css, javascript
 - Belajar ci, laravel
+- Belajar belajar
